@@ -38,3 +38,9 @@ html, body {
 }
 /* 
 https://fonts.google.com/specimen/Shadows+Into+Light?category=Handwriting */
+
+@media only screen and (max-width: 600px) {
+  div.bg-info {
+    font-size: 0.7rem;
+  }
+}
